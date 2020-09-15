@@ -4,6 +4,8 @@ Software Developer | Avid Reader | Gamer
 
 Welcome to my GitHub:octocat:! This is a collection of my personal projects, demos, algorithm practice and general contributions. I always appreciate a chance to collaborate on new and interesting challenges, so if you'd like to collaborate - please don't hesitate to reach out!
 
+You'll generally find me writing a lot of JavaScript (more TypeScript these days), Java and as of recently, Python. While I have my go-to frameworks & libraries, I always enjoy learning and trying new technologies!
+
 :house:  ->  For more information - check out [danielvolosov.dev](https://danielvolosov.dev/). 
 
 :email:  ->  Questions? Feel free to send me a [tweet](https://twitter.com/@danielvolosov)!
