@@ -1,4 +1,4 @@
-## :computer: Hello World! :computer:
+## Hello World! :computer:
 
 Software Developer | Avid Reader | Gamer
 
