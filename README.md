@@ -1,6 +1,6 @@
 ## Hello World! :computer:
 
-Software Developer | Avid Reader | Gamer
+Software Developer | Avid Reader | Gamer | Nomad
 
 Welcome to my GitHub:octocat:! This is a collection of my personal projects, demos, algorithm practice and general contributions. I always appreciate the chance to collaborate on new and interesting challenges, so if you'd like to work together - please don't hesitate to reach out!
 
