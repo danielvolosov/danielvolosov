@@ -1,4 +1,4 @@
-## Hello World! :computer:
+## Daniel Volosov
 
 Software Developer | Avid Reader | Nomad
 
