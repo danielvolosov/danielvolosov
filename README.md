@@ -1,6 +1,6 @@
 ## Daniel Volosov
 
-Software Developer | Avid Reader | Nomad
+Software Developer | Avid Reader | Technology Enthusiast | Gamer
 
 Welcome to my GitHub! This is a collection of my personal projects, demos, algorithm practice and general contributions. I always appreciate the chance to collaborate on new and interesting challenges.
 
